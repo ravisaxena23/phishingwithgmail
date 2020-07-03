@@ -1,8 +1,7 @@
-# phishingwithgmail
+# Phishing with gmail
 This repository can be used to do phishing  to acquire any Email and password.
 
 ### Instructions
-<br> />
 This repository use firebase and html. One can use this repo for study purpose. 
 Just go to: <br />
 index.html and place your firebase web app credentials for firebase credentials go [here](https://console.firebase.google.com/u/0/).<br />
